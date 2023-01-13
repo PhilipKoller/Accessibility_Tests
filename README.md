@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 3. Run the tests  
 ```npm test```
 
-## Running the tests
+## Tests
 The project includes two test cases:
 
 1. Ensure the main-nav (CSS selector) has been loaded: This test checks if the main-nav element, identified by its CSS selector, has been loaded on the page.
