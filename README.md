@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 - A computer with an internet connection and a web browser
 - A code editor or integrated development environment (IDE)
 - [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) (Node Package Manager) installed on your computer
-- [Selenium webdriver](https://www.selenium.dev/documentation/en/webdriver/webdriver_installation/) installed
+- [Selenium webdriver](https://www.npmjs.com/package/selenium-webdriver) installed
 - [Chrome driver](https://sites.google.com/chromium.org/driver/)
 
 ### Installing
