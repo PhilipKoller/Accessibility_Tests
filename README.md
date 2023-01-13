@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 - A code editor or integrated development environment (IDE)
 - [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) (Node Package Manager) installed on your computer
 - [Selenium webdriver](https://www.npmjs.com/package/selenium-webdriver) installed
-- [Chrome driver](https://sites.google.com/chromium.org/driver/)
+- [Chrome driver](https://sites.google.com/chromium.org/driver/) installed on your computer
 
 ### Installing
 
